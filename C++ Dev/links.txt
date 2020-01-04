@@ -1,3 +1,6 @@
-86. C++ STD Data Structure
 
+85. C++ Ground-up
+https://www.evernote.com/l/APOk32x0cORMnowOLDP_QLubIWj-38HGmzo
+
+86. C++ STD Data Structure
 https://www.evernote.com/l/APMFeWJ8oz9JaLBzPZGjdyYeAPGRsmcdfRY
