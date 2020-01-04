@@ -4,3 +4,18 @@ https://www.evernote.com/l/APOk32x0cORMnowOLDP_QLubIWj-38HGmzo
 
 86. C++ STD Data Structure
 https://www.evernote.com/l/APMFeWJ8oz9JaLBzPZGjdyYeAPGRsmcdfRY
+
+87. C++ STD Manipulate
+https://www.evernote.com/l/APPQyOhxuuhNSo5a8s9z-FaBxWjWCLBWP4I
+
+88. C++ Compile & Linking
+https://www.evernote.com/l/APOtWbD18shJQ4LZfm-8XPT-hluWizZj23E
+
+89. C++ Makefile go through
+https://www.evernote.com/l/APP-sl4xX_JJ_IlhP3MjNBEDcybTBABbc8s
+
+90. C++ Development E.G. OrderBook
+https://www.evernote.com/l/APMECG_2SyJBq5_nqZqM2JIhrqtP_FGSQmQ
+
+91. C++ Algorithm Paradigm
+https://www.evernote.com/l/APMuKT4Hv0NN6b5EvFs9aiWjrQiTZiLcIxg
